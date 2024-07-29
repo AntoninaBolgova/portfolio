@@ -1,1 +1,9 @@
-read me
+# Data Analyst
+
+### Education
+
+### Work Experience
+
+### projects
+
+
