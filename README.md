@@ -1,6 +1,9 @@
 # Data Analyst
 #### Technical Skills: SQL, Excel, Power Pivot, Power Query, Power BI, Tableau, Python, Pandas, Matplotlib, Seaborn
-
+####Languages
+- Russian | native
+- Polish | advanced
+- English | advanced
 ## Education								       		
 - M.S., Physics	| Ural State University (_june 2011_)	 			        		
 - Informational technology | Cosinus school (_February 2019_)
@@ -21,18 +24,17 @@
 
 ## Projects
 ### SuperMarket Initial Analysis Dashboard
-![Supermarket](https://github.com/AntoninaBolgova/portfolio/)
+(https://github.com/AntoninaBolgova/portfolio/)
 
-Developed Dashboard using **Power Bi**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed Dashboard using **Power Bi**. Supermarket sales analysis for 1 quartal in 2019
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Regional Sales Profitability Dashboard
+(https://public.tableau.com/app/profile/antoninab/viz/RegionalSalesProfitabilityDashboard_16789788395340/Dashboard2))
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used **Tableau** to create a Sales Profitability dashboard for a company in the USA for 2010-2013 years.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+
 
 
 
