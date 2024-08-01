@@ -1,9 +1,11 @@
 # Data Analyst
 #### Technical Skills: SQL, Excel, Power Pivot, Power Query, Power BI, Tableau, Python, Pandas, Matplotlib, Seaborn
-####Languages
-- Russian | native
-- Polish | advanced
-- English | advanced
+
+##Languages
+- Russian native
+- Polish advanced
+- English advanced
+- 
 ## Education								       		
 - M.S., Physics	| Ural State University (_june 2011_)	 			        		
 - Informational technology | Cosinus school (_February 2019_)
@@ -24,13 +26,13 @@
 
 ## Projects
 ### SuperMarket Initial Analysis Dashboard
-(https://github.com/AntoninaBolgova/portfolio/)
+- [Power bi project]([https://github.com/AntoninaBolgova/portfolio/](https://github.com/AntoninaBolgova/portfolio/blob/main/Super%20Market%20Initial%20Analysis.pbix)
 
 Developed Dashboard using **Power Bi**. Supermarket sales analysis for 1 quartal in 2019
 
 
 ### Regional Sales Profitability Dashboard
-(https://public.tableau.com/app/profile/antoninab/viz/RegionalSalesProfitabilityDashboard_16789788395340/Dashboard2))
+- [Tableau project](https://public.tableau.com/app/profile/antoninab/viz/RegionalSalesProfitabilityDashboard_16789788395340/Dashboard2)
 
 Used **Tableau** to create a Sales Profitability dashboard for a company in the USA for 2010-2013 years.
 
