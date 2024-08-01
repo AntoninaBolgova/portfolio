@@ -38,7 +38,7 @@ Developed Dashboard using **Power Bi**. Supermarket sales analysis for 1 quartal
 Used **Tableau** to create a Sales Profitability dashboard for a company in the USA for 2010-2013 years.
 
 ### Regional Sales Profitability Dashboard
--[SQL project](https://github.com/AntoninaBolgova/portfolio/blob/main/DATA%20ANALYSIS%20BOOKING%20SITE.sql)
+- [SQL project](https://github.com/AntoninaBolgova/portfolio/blob/main/DATA%20ANALYSIS%20BOOKING%20SITE.sql)
 
 Analysis was completed using only SQL. SQL counted moM, QoQ, RPR and Purchase Frequency metrics for the Ticket booking website.
 
