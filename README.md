@@ -38,7 +38,7 @@ Used **Tableau** to create a Sales Profitability dashboard for a company in the 
 
 ### Regional Sales Profitability Dashboard
 - [SQL project](https://github.com/AntoninaBolgova/portfolio/blob/main/DATA%20ANALYSIS%20BOOKING%20SITE.sql))
-Analysis was completed using only SQL. MoM, QoQ, RPR and Purchase Frequency metrics were pony using SQL for the Ticket booking website.
+Analysis was completed using only SQL. MoM, QoQ, RPR and Purchase Frequency metrics were counted by SQL for the Ticket booking website.
 
 
 
