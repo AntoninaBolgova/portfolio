@@ -26,7 +26,7 @@
 
 ## Projects
 ### SuperMarket Initial Analysis Dashboard
-- [Power bi project]([https://github.com/AntoninaBolgova/portfolio/](https://github.com/AntoninaBolgova/portfolio/blob/main/Super%20Market%20Initial%20Analysis.pbix)
+- [Power bi project](https://github.com/AntoninaBolgova/portfolio/blob/main/Super%20Market%20Initial%20Analysis.pbix)
 
 Developed Dashboard using **Power Bi**. Supermarket sales analysis for 1 quartal in 2019
 
@@ -37,7 +37,7 @@ Developed Dashboard using **Power Bi**. Supermarket sales analysis for 1 quartal
 Used **Tableau** to create a Sales Profitability dashboard for a company in the USA for 2010-2013 years.
 
 ### Regional Sales Profitability Dashboard
-- [SQL project](https://github.com/AntoninaBolgova/portfolio/blob/main/DATA%20ANALYSIS%20BOOKING%20SITE.sql))
+- [SQL project](https://github.com/AntoninaBolgova/portfolio/blob/main/DATA%20ANALYSIS%20BOOKING%20SITE.sql)
 Analysis was completed using only SQL. MoM, QoQ, RPR and Purchase Frequency metrics were counted by SQL for the Ticket booking website.
 
 
