@@ -1,7 +1,7 @@
 # Data Analyst
 #### Technical Skills: SQL, Excel, Power Pivot, Power Query, Power BI, Tableau, Python, Pandas, Matplotlib, Seaborn
 
-##Languages
+## Languages
 - Russian native
 - Polish advanced
 - English advanced
