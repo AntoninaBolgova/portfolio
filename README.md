@@ -26,6 +26,12 @@
 
 
 ## Projects
+### Profit analysis of betting company
+- [Python project](https://github.com/AntoninaBolgova/portfolio/blob/main/betting_project.ipynb)
+
+Analytical report on the project's work during the January 2016 - February 2017 sample period. ARPU and Conversion rates were counted and conclusions were drawn with advice based on the analysis.
+Used Python libraries: Pandas, NumPy Seaborn, Matplotlib.
+
 ### SuperMarket Initial Analysis Dashboard
 - [Power bi project](https://github.com/AntoninaBolgova/portfolio/blob/main/Super%20Market%20Initial%20Analysis.pbix)
 
