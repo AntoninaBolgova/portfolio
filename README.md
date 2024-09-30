@@ -49,6 +49,11 @@ Used **Tableau** to create a Sales Profitability dashboard for a company in the 
 Analysis was completed using only SQL. SQL counted moM, QoQ, RPR and Purchase Frequency metrics for the Ticket booking website.
 
 
+### Stock market analysis (Apple, Google, Amazon, Microsoft)
+- [SQL project](https://github.com/AntoninaBolgova/portfolio/blob/main/DATA%20ANALYSIS%20BOOKING%20SITE.sql)
+
+Stock Market Analysis and Prediction is a project on technical analysis, visualization, and prediction using data provided by Yachoo Finance. By looking at data from the stock market, particularly some giant technology stocks and others. Used pandas to get stock information, visualize different aspects of it, and finally looked at a few ways of analyzing the risk of a stock, based on its previous performance history. Predict future stock prices through a Monte Carlo method.
+
 
 
 
