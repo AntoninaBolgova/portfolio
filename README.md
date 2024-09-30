@@ -50,9 +50,9 @@ Analysis was completed using only SQL. SQL counted moM, QoQ, RPR and Purchase Fr
 
 
 ### Stock market analysis (Apple, Google, Amazon, Microsoft)
-- [SQL project](https://github.com/AntoninaBolgova/portfolio/blob/main/DATA%20ANALYSIS%20BOOKING%20SITE.sql)
+- [Python project](https://github.com/AntoninaBolgova/portfolio/blob/main/Stock%20market%20data%20analysis.ipynb)
 
-Stock Market Analysis and Prediction is a project on technical analysis, visualization, and prediction using data provided by Yachoo Finance. By looking at data from the stock market, particularly some giant technology stocks and others. Used pandas to get stock information, visualize different aspects of it, and finally looked at a few ways of analyzing the risk of a stock, based on its previous performance history. Predict future stock prices through a Monte Carlo method.
+Stock Market Analysis and Prediction is a project on technical analysis, visualization, and prediction using data provided by Yahoo Finance. By looking at data from the stock market, particularly some giant technology stocks and others. Used pandas to get stock information, visualize different aspects of it, and finally looked at a few ways of analyzing the risk of a stock, based on its previous performance history. Predict future stock prices through a Monte Carlo method.
 
 
 
