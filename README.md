@@ -12,6 +12,13 @@
 - Informational technology | Cosinus school (_February 2019_)
 
 ## Work Experience
+**Senior Analyst @ HCL Tech (_December 2024 - March 2025)**
+- Conducted in-depth research and data analysis across multiple channels to develop expertise in various products.
+-	Identified and resolved issues in knowledge repositories, enhancing data accuracy and usability.
+-	Optimized data presentation using configuration tools to improve accessibility and reporting.
+
+
+  
 **Data Analyst @ LSEG Refinitiv (_October 2021 - May 2024)**
 - Work with spreadsheets, databases, SQL(oracle), Python and internal tools;
 - Organize and present data extracted from different sources, preparing reports
